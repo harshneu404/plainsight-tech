@@ -80,9 +80,9 @@ export const taskStyles = {
       px-3 
       py-1.5 
       text-sm 
-      text-red-500 
-      hover:text-red-600 
-      hover:bg-red-50 
+      text-white-500 
+      hover:text-white-600 
+      hover:bg-white-50 
       rounded-md 
       transition-colors
       ml-2

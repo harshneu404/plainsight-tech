@@ -105,7 +105,7 @@ const Task = ({ task, onUpdate, onDelete }) => {
 
                     <button
                         onClick={() => onDelete(task.id)}
-                        className="text-red-500 hover:text-red-700 text-sm focus:outline-none"
+                        className="text-white-500 hover:text-white-700 text-sm focus:outline-none"
                     >
                         Delete
                     </button>
